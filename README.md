@@ -1,7 +1,5 @@
 
-## Final Project Submission
-
-Post Sale Opportunities in King County, WA
+## Post Sale Opportunities in King County, WA
 
 Three important questions.
 <ul>
